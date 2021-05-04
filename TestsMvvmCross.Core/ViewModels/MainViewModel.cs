@@ -22,6 +22,12 @@ namespace TestsMvvmCross.Core.ViewModels
             NavigationService = navigationService;
         }
 
+        public ICommand FlashCommand => new Command<Contact>((obj ) =>
+        {
+            ShowContactDetails(obj);
+        });
+
+
         public ObservableCollection<Contact> Contacts { get; set; }
 
         public override Task Initialize()
@@ -31,9 +37,9 @@ namespace TestsMvvmCross.Core.ViewModels
             return base.Initialize();
         }
 
-        public Task ShowContactDetails(object contact)
+        public Task ShowContactDetails(Contact contact)
         {
-            return NavigationService.Navigate<ContactDetailsViewModel, Contact>(contact as Contact);
+            return NavigationService.Navigate<ContactDetailsViewModel, Contact>(contact);
         }
 
     }

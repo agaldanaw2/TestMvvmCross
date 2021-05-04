@@ -15,12 +15,14 @@
         <Label Text="{Binding WelcomeText}" 
            HorizontalOptions="Center"/>
         <ListView ItemsSource="{Binding Contacts}"
-                  ItemSelected="ContactSelected"
                   Grid.Row="1">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding Source={x:Reference Main},Path=ViewModel.FlashCommand}" CommandParameter="{Binding .}" />
+                            </StackLayout.GestureRecognizers>
                             <Label Text="{Binding Id}"/>
                             <Label Text="{Binding Name}"/>
                         </StackLayout>

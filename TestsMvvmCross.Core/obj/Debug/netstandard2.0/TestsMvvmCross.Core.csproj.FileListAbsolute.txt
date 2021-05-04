@@ -7,3 +7,12 @@ C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstan
 C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.dll
 C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.pdb
 C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.csprojAssemblyReference.cache
+C:\Users\nxpan\Documents\HORUS\PruebasRepos\TestMvvmCross\TestsMvvmCross.Core\bin\Debug\netstandard2.0\TestsMvvmCross.Core.deps.json
+C:\Users\nxpan\Documents\HORUS\PruebasRepos\TestMvvmCross\TestsMvvmCross.Core\bin\Debug\netstandard2.0\TestsMvvmCross.Core.dll
+C:\Users\nxpan\Documents\HORUS\PruebasRepos\TestMvvmCross\TestsMvvmCross.Core\bin\Debug\netstandard2.0\TestsMvvmCross.Core.pdb
+C:\Users\nxpan\Documents\HORUS\PruebasRepos\TestMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.csprojAssemblyReference.cache
+C:\Users\nxpan\Documents\HORUS\PruebasRepos\TestMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.AssemblyInfoInputs.cache
+C:\Users\nxpan\Documents\HORUS\PruebasRepos\TestMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.AssemblyInfo.cs
+C:\Users\nxpan\Documents\HORUS\PruebasRepos\TestMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.csproj.CoreCompileInputs.cache
+C:\Users\nxpan\Documents\HORUS\PruebasRepos\TestMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.dll
+C:\Users\nxpan\Documents\HORUS\PruebasRepos\TestMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.pdb
