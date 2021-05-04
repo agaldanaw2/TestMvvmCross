@@ -1,0 +1,9 @@
+C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\bin\Debug\netstandard2.0\TestsMvvmCross.Core.deps.json
+C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\bin\Debug\netstandard2.0\TestsMvvmCross.Core.dll
+C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\bin\Debug\netstandard2.0\TestsMvvmCross.Core.pdb
+C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.AssemblyInfoInputs.cache
+C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.AssemblyInfo.cs
+C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.csproj.CoreCompileInputs.cache
+C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.dll
+C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.pdb
+C:\Users\nxpan\source\repos\TestsMvvmCross\TestsMvvmCross.Core\obj\Debug\netstandard2.0\TestsMvvmCross.Core.csprojAssemblyReference.cache
